@@ -9,19 +9,19 @@
 </br>
 </br>
 
-![gif](public/assets/20210907_011625.gif)
+<img src="public/assets/20210907_011625.gif" width="100%"/>
 </br>
 </br>
 
-![gif](public/assets/20210907_012007.gif)
+<img src="public/assets/20210907_012007.gif" width="100%"/>
 </br>
 </br>
 
-![gif](public/assets/20210907_011835.gif)
+<img src="public/assets/20210907_011835.gif" width="100%"/>
 </br>
 </br>
 
-![gif](public/assets/20210907_011726.gif)
+<img src="public/assets/20210907_011726.gif" width="100%"/>
 </br>
 </br>
 
