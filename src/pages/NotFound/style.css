@@ -1,0 +1,17 @@
+.not-found {
+  flex: 4;
+  padding: 10px 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.not-found-img {
+  width: 500px;
+  height: 500px;
+}
+
+.not-found-title {
+  margin-top: 50px;
+  text-align: center;
+  color: #00008b;
+}
